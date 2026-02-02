@@ -19,10 +19,10 @@ InstaCloud is a Proof-of-Concept (PoC) tool that uses Instagram's internal API t
 * **Infinite Storage:** No caps, assuming Instagram doesn't patch the API.
 * **Any File Type:** Stores `.exe`, `.apk`, `.mp4`, `.zip`, etc.
 * **Database Indexed:** Keeps track of your files remotely using PostgreSQL (NeonDB recommended).
-* **Encryption:** (Optional) Basic obfuscation via image conversion.
+* **Encryption:** Basic obfuscation via image conversion.
 * **Dual Interface:**
     * **CLI:** Fast, terminal-based management.
-    * **GUI:** Modern Web Dashboard with Drag & Drop.
+    * **GUI:** Modern Web Dashboard.
 
 ## 🛠️ Installation
 
@@ -83,9 +83,15 @@ This project is for **Educational Purposes Only**.
 * Do not use your main Instagram account. Use a burner account.
 * I am not responsible for banned accounts or lost data.
 
+## 🤝 Contributing
+
+Contributions are welcome! If you have found a bug, want to add a new feature, or improve the documentation, feel free to open an issue or submit a pull request.
+
+If you have any questions or need to contact me directly, you can reach out via the platforms listed below.
+
 ## 👨‍💻 Credits
 
 **Created by [Depreciating](https://github.com/depreciating)**
 
 * **Telegram:** [@depreciatin](https://t.me/depreciatin)
-* **Discord:** [Server Invite](https://discord.gg/YNHkj9kVFt)
+* **Discord Server:** [Server Link](https://discord.gg/YNHkj9kVFt)
