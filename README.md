@@ -2,7 +2,7 @@
 
 > **Turn Instagram into your personal, infinite cloud storage.**
 
-InstaCloud is a Proof-of-Concept (PoC) tool that uses Instagram's internal API to store unlimited files for free. By converting files into "Visual Noise" images and uploading them as DM doodles, we can bypass file type restrictions and use Instagram's servers as a permanent backend.
+InstaCloud is a Proof-of-Concept (PoC) tool that uses Instagram's internal API to store unlimited files for free. By converting files into "Visual Noise" images and uploading them as DM doodles, we can bypass file type restrictions and use Instagram's servers as a backend.
 
 ![InstaCloud GUI](https://i.ibb.co/60BYSkZD/Screenshot-20260202-153217.jpg)
 
@@ -79,15 +79,19 @@ For power users or headless servers.
 
 ## ⚠️ Disclaimer & Warning
 
-This project is for **Educational Purposes Only**.
-* Do not use your main Instagram account. Use a burner account.
-* I am not responsible for banned accounts or lost data.
+This project is a **Proof-of-Concept (PoC) steganographic experiment** and is for **Educational Purposes Only**.
+
+* **Terms of Service:** Using this tool violates Instagram's/Meta's Terms of Service. Automated use of the Doodle API is not officially supported and can lead to immediate account suspension or permanent bans.
+* **Burner Accounts Only:** **DO NOT** use your primary Instagram account. Use a dedicated burner account for any testing or usage.
+* **Data Reliability:** This is an experimental storage method, not a replacement for professional cloud services. Instagram may patch this loophole, clear DM caches, or delete "doodles" at any time without notice. Never upload data that you cannot afford to lose.
+* **Privacy & Encryption:** While files are converted into visual pixels, they are **not encrypted** by default. Meta's automated systems may still analyze these images. For true privacy, you must encrypt your files locally before uploading them to the system.
+* **No Liability:** The author is not responsible for any banned accounts, loss of data, or legal consequences resulting from the use of this software.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have found a bug, want to add a new feature, or improve the documentation, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have found a bug, want to add a new feature, or improve the documentation, feel free to open an issue or submit a pull request. 
 
-If you have any questions or need to contact me directly, you can reach out via the platforms listed below.
+If you have any questions or would like to discuss the project, feel free to contact me through the platforms below.
 
 ## 👨‍💻 Credits
 
